@@ -54,14 +54,17 @@ citibike_tripdata["tripduration"] = pd.to_datetime(citibike_tripdata["tripdurati
 ## Deliverable 3
 
 ### Bike volume rented by weekday for top10 stations
+https://public.tableau.com/app/profile/indira8561/viz/Bike0/Bikevolumerentedbyweekdayfortop10stations
 
 ![image](https://user-images.githubusercontent.com/90879122/148726778-e6fcb95e-9ed4-40e3-be16-b21ed3bb7079.png)
 
 ### Bikes rented for top 10 stations
+https://public.tableau.com/app/profile/indira8561/viz/Bike01/Bikesrentedfortop10stations
 ![image](https://user-images.githubusercontent.com/90879122/148726813-adf9610c-c41a-4479-93cc-d227bd26c64b.png)
 
 
 ### Start time by station and Bike ID
+https://public.tableau.com/app/profile/indira8561/viz/Bike02/StarttimebystationandBikeID?publish=yes
 ![image](https://user-images.githubusercontent.com/90879122/148726850-67470b7a-7e19-42ba-bd05-d1008228cbfb.png)
 
 #citibike Story
@@ -69,6 +72,7 @@ citibike_tripdata["tripduration"] = pd.to_datetime(citibike_tripdata["tripdurati
 # Summary Final overview
 
 This analysis did help the business proposal  to gain more insights.
+https://public.tableau.com/app/profile/indira8561/viz/Bike1_16417664414260/Story2?publish=yes
 
 ![image](https://user-images.githubusercontent.com/90879122/148726974-64f380fb-780c-4b2d-a723-0e968dd4af55.png)
 
